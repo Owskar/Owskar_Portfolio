@@ -2,6 +2,15 @@
 
 Welcome to my portfolio website! 🌟 This project showcases my skills in web development and programming through a carefully crafted website. Below you'll find detailed information about each section of the website. 💻
 
+<h2>🚀 Demo</h2>
+
+#### live link : <a href="https://owskar.github.io/Owskar_Portfolio/" target="_blank">Owskar-Portfolio</a> 
+
+<p align="center"><img src="https://github.com/Owskar/Owskar_Portfolio/blob/main/owskar-Portfolio.jpg" alt="project-image"></p>
+
+
+
+
 ##  ℹ️ About Me 
 
 In this section, you'll discover my educational background and professional journey. From my academic achievements to my career aspirations, I aim to provide insights into who I am and what drives me.
@@ -9,12 +18,6 @@ In this section, you'll discover my educational background and professional jour
 ## 💼 Services
 
 Explore my technical expertise in this section, where I detail my proficiency in various programming languages and domains. From web development technologies like HTML, CSS, and JavaScript to languages like C++, Java, and Python, I offer a comprehensive range of services tailored to meet diverse needs.
-
-
-<h2>🚀 Demo</h2>
-
-#### live link : <a href="https://owskar.github.io/Owskar_Portfolio/" target="_blank">Owskar-Portfolio</a> 
-
 
 
 ## 🎨 Portfolio
